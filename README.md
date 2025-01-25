@@ -1,5 +1,6 @@
-# OpenDuelyst
 
+# 这个项目是完全的开源的，美术、音效、都可以拿来直接的使用；
+# OpenDuelyst
 ![Duelyst Logo](app/resources/ui/brand_duelyst.png)
 
 This is the source code for Duelyst, a digital collectible card game and
